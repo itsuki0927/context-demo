@@ -1,5 +1,5 @@
 {
-  "name": "next-demo",
+  "name": "context-demo",
   "private": true,
   "scripts": {
     "dev": "next dev",
